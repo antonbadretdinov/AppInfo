@@ -1,14 +1,14 @@
 <resources>
     <string name="app_name">AppsInfo</string>
     <string name="back_button_icon">Back button icon</string>
-    <string name="information">Информация</string>
-    <string name="allApps">Все приложения</string>
-    <string name="appNameInfo">Имя приложения:</string>
-    <string name="packageNameInfo">Имя пакета:</string>
-    <string name="checkSumInfo">Контрольная сумма:</string>
-    <string name="versionInfo">Версия:</string>
-    <string name="openButton">Открыть</string>
-    <string name="hideInfo">Скрыть</string>
-    <string name="showFullInfo">Показать полностью</string>
+    <string name="information">Information</string>
+    <string name="allApps">All apps</string>
+    <string name="appNameInfo">App name:</string>
+    <string name="packageNameInfo">Package name:</string>
+    <string name="checkSumInfo">Check sum:</string>
+    <string name="versionInfo">Version:</string>
+    <string name="openButton">Open</string>
+    <string name="hideInfo">Hide</string>
+    <string name="showFullInfo">Show</string>
     <string name="icon_for_app">Icon for app</string>
 </resources>
